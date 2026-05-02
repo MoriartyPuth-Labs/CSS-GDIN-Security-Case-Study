@@ -1,7 +1,6 @@
 <div align="center">
 
-# 🛡️ API Broken Access Control & PII Exposure
-## Government Complaint Support System (CSS)
+# 🛡️ API Broken Access Control & PII Exposure: Government Complaint Support System (CSS)
 ### Ministry of Interior — Cambodia
 
 [![Target](https://img.shields.io/badge/Target-CSS_GDIN_Portal-blue?style=for-the-badge&logo=globe)](https://css-gdin.interior.gov.kh/home)
@@ -184,3 +183,19 @@ Public `POST` submission flow remained functional.
 > **Disclaimer:** This research was conducted for educational and security-hardening purposes.
 > No data was retained or exfiltrated. All findings were reported directly to the system owner
 > prior to publication.
+
+---
+
+## 👤 Author
+
+<div align="center">
+
+**Eav Puthcambo**
+<br/>
+AUPP Cybersecurity Programme
+<br/>
+American University of Phnom Penh
+
+[![GitHub](https://img.shields.io/badge/GitHub-MoriartyPuth--Labs-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/MoriartyPuth-Labs)
+
+</div>
